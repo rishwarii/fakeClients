@@ -1,0 +1,17 @@
+[
+{
+  "ClientName":"Client1", 
+
+  "ClientType":"temp",
+
+  "ClientEmail" :"temp" 
+}, 
+
+{
+  "ClientName":"Client2", 
+
+  "ClientType":"temp",
+
+  "ClientEmail" :"temp" 
+}
+]
